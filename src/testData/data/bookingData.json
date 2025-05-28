@@ -1,0 +1,38 @@
+{
+  "FirstNames": [
+    "Alice",
+    "Bob",
+    "Charlie",
+    "Diana",
+    "Ethan",
+    "Fiona",
+    "George",
+    "Hannah",
+    "Ian",
+    "Julia"
+  ],
+  "LastNames": [
+    "Smith",
+    "Johnson",
+    "Williams",
+    "Brown",
+    "Jones",
+    "Miller",
+    "Davis",
+    "Garcia",
+    "Rodriguez",
+    "Wilson"
+  ],
+  "AdditionalNeeds": [
+    "Breakfast",
+    "Late Checkout",
+    "Extra Pillow",
+    "Airport Pickup",
+    "Crib",
+    "Extra Towels",
+    "High Floor",
+    "Ocean View",
+    "Pet Friendly",
+    "No Smoking"
+  ]
+}
