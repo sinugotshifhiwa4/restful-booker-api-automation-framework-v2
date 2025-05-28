@@ -48,13 +48,6 @@ export class AuthTokenTestResources {
     );
   }
 
-  /**
-   * Validates product response with common validation logic
-   * @param response - The API response
-   * @param expectedStatusCode - Expected status code
-   * @param context - The product context
-   * @param testType - Type of test ('positive' or 'negative')
-   */
   public validateAuthTokenResponse(
     response: AxiosResponse,
     expectedStatusCode: number,
@@ -85,7 +78,7 @@ export class AuthTokenTestResources {
     );
     AuthTokenTestValidator.assertAuthenticationToken(response);
 
-    // Extract and store product ID
+    // Extract and store auth token
     this.extractAndStoreAuthToken(response, testId);
   }
 
