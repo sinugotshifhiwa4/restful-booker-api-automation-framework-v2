@@ -247,6 +247,9 @@ It provides detailed info on endpoints, request/response formats, and authentica
 
 ```bash
 npm install --save-dev cspell eslint eslint-config-prettier eslint-plugin-prettier ortoni-report prettier --save-exact
+```
+
+```bash
 npm install argon2 axios cross-env dotenv moment-timezone playwright-trx-reporter typescript typescript-eslint winston
 ```
 
