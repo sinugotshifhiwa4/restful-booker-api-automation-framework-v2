@@ -4,6 +4,12 @@
 
 This repository contains the **Restful Booker Automation Framework** for testing **Booking API Version 2**. Built with **Playwright**, **TypeScript**, and **Axios**, the framework emphasizes **scalability**, **security**, and **maintainability**, making it ideal for robust **API testing**.
 
+## Stack
+
+* [Playwright](https://playwright.dev/) – For browser automation and testing
+* [TypeScript](https://www.typescriptlang.org/) – For static typing and cleaner code structure
+* [Axios](https://axios-http.com/) – For handling HTTP requests
+
 ---
 
 ## Getting Started
