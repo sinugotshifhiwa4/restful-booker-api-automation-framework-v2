@@ -14,7 +14,8 @@
     "Restfulbooker",
     "Tshifhiwa",
     "Sinugo",
-    "esbenp"
+    "esbenp",
+    "checkin"
   ],
   "cSpell.ignorePaths": [
     "**/node_modules/",

@@ -34,7 +34,7 @@
     "test:encryption:dev": "cross-env ENV=dev SKIP_BROWSER_INIT=true npx playwright test tests/encryption",
     "test:encryption:uat": "cross-env ENV=uat SKIP_BROWSER_INIT=true npx playwright test tests/encryption",
     "test:api:dev": "cross-env ENV=dev npx playwright test tests/api --project=chromium",
-    "test:api:uat": "cross-env ENV=uat npx playwright test tests/api",
+    "test:api:uat": "cross-env ENV=uat npx playwright test tests/api --project=chromium",
     "test:failed:dev": "cross-env ENV=dev npx playwright test --last-failed",
     "test:failed:uat": "cross-env ENV=uat npx playwright test --last-failed",
     "ui": "npx playwright test --ui",
